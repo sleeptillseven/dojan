@@ -1,6 +1,6 @@
 # Dojan
 
-TODO: Write a gem description
+The aim of the project is to support you with a clean and simple fake FTP server, so your specs don't get you a headache.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Don't use this yet. It's not production ready. 
 
 ## References
 
