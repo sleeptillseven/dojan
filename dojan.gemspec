@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["christoph.jasinski@googlemail.com"]
   gem.description   = %q{A fake FTP server which aims to help you have clean tests.}
   gem.summary       = %q{Testing FTP calls without pain}
-  gem.homepage      = ""
+  gem.homepage      = "http://sleeptillseven.github.com/dojan/"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

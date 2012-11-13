@@ -20,9 +20,13 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
+## References
+
+  * [fake_ftp](https://github.com/livinginthepast/fake_ftp) by Eric Saxby
+
 ## Build Status
 
-  [http://secure.travis-ci.org/sleeptillseven/dojan.png)](http://travis-ci.org/sleeptillseven/dojan)
+  [![Build Status](https://travis-ci.org/sleeptillseven/dojan.png)](https://travis-ci.org/sleeptillseven/dojan)
 
 ## Contributing
 
