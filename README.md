@@ -20,6 +20,10 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
+## Build Status
+
+  [http://secure.travis-ci.org/sleeptillseven/dojan.png)](http://travis-ci.org/sleeptillseven/dojan)
+
 ## Contributing
 
 1. Fork it
