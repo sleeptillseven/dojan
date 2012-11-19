@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = Dojan::VERSION
   gem.authors       = ["Christoph Jasinski"]
   gem.email         = ["christoph.jasinski@googlemail.com"]
-  gem.description   = %q{A fake FTP server which aims to help you have clean tests.}
+  gem.description   = %q{A fake FTP server which aims to help you write clean tests.}
   gem.summary       = %q{Testing FTP calls without pain}
   gem.homepage      = "http://sleeptillseven.github.com/dojan/"
 
